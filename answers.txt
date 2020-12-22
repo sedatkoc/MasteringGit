@@ -1232,7 +1232,7 @@ Your favorite sport: Surfing
 Question 3.
 Your favorite food: Pizza
 ------------------------------------------------------
-Student ID: 061261024
+Student ID: 061264024
 Name: Sedat Koc
 Question 1.
 Your favorite color: Blue
