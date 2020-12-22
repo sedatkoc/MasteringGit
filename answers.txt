@@ -1,6 +1,6 @@
 Number of students who modified this file: 83 + 6 = 89 students
 
-Name of the last student who modified this file: Sedat Koc
+Name of the last student who modified this file:Sedat Koc
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1235,11 +1235,11 @@ Your favorite food: Pizza
 Student ID: 061264024
 Name: Sedat Koc
 Question 1.
-Your favorite color: Blue
+Your favorite color: Blue color
 
 Question 2.
-Your favorite sport: Football
+Your favorite sport: Basketball
 
 Question 3.
-Your favorite food: Doner Kebab
+Your favorite food: Turkish Kofte
 ------------------------------------------------------
